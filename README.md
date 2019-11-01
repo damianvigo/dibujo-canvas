@@ -1,2 +1,2 @@
-# dibujoCanvas
-Dibujo_con_Canvas
+# Dibujo
+Dibujo con canvas
